@@ -1,3 +1,14 @@
 MNIST.tar.gz
 MNIST.tar.gz.2
 MNIST.tar.gz.1
+MNIST.tar.gz.3
+MNIST/processed/test.pt
+MNIST/processed/training.pt
+MNIST/raw/t10k-images-idx3-ubyte
+MNIST/raw/t10k-images-idx3-ubyte.gz
+MNIST/raw/t10k-labels-idx1-ubyte
+MNIST/raw/t10k-labels-idx1-ubyte.gz
+MNIST/raw/train-images-idx3-ubyte
+MNIST/raw/train-labels-idx1-ubyte
+MNIST/raw/train-labels-idx1-ubyte.gz
+MNIST/raw/train-images-idx3-ubyte.gz
