@@ -26,3 +26,10 @@ data/FashionMNIST/processed/test.pt
 data/FashionMNIST/.DS_Store
 data/.DS_Store
 .DS_Store
+.ipynb_checkpoints/CNN_Fashion_MNIST-checkpoint.ipynb
+.ipynb_checkpoints/pytorch_tutorial-checkpoint.ipynb
+.ipynb_checkpoints/simple CNN-checkpoint.ipynb
+.ipynb_checkpoints/simple fully connected neural network-checkpoint.ipynb
+.ipynb_checkpoints/simple RNN - Bi-LSTM-checkpoint.ipynb
+.ipynb_checkpoints/tmp-checkpoint.ipynb
+model.pth
